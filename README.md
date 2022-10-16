@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendra7992&label=Visitors&color=48b40e&style=flat-square" alt="raghavendra7992" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendra7992" alt="raghavendra7992" /></a> </p>
-
+<img height="350px" width="100%" src="https://c8.alamy.com/comp/W3XFX2/full-stack-developer-with-digital-java-code-text-full-stack-developer-and-computer-software-coding-vector-concept-programming-coding-script-java-di-W3XFX2.jpg">
 - 🔭 I’m currently working on [Indian Express](https://github.com/raghavendra7992/abiding-cough-9521)
 
 - 🌱 I’m currently learning **Mern Developer**
@@ -18,7 +16,7 @@
 - 📄 Know about my experiences [https://resume.in](https://resume.in)
 
 - ⚡ Fun fact **I am a great Comedian**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendra7992" alt="raghavendra7992" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajucool111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajucool111" height="30" width="40" /></a>
