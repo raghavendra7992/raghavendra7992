@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Developer**
 
-- 👨‍💻 All of my projects are available at [https://myPORTFOLIO.in](https://myPORTFOLIO.in)
+- 👨‍💻 All of my projects are available at [https://myPORTFOLIO.in](https://raghavendra7992.github.io/)
 
 - 💬 Ask me about **react,nodejs,mongoDB,javascript,embedded system and Iot,css,html**
 
