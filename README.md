@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Mern Developer**
 
-- 👨‍💻 All of my projects are available at [https://myPORTFOLIO.in](https://raghavendra7992.github.io/)
+- 👨‍💻 All of my projects are available at [https://raghavendra7992.github.io/#/projects]
 
 - 💬 Ask me about **react,nodejs,mongoDB,javascript,embedded system and Iot,css,html**
 
 - 📫 How to reach me **raju229591@gmail.com**
 
-- 📄 Know about my experiences [https://resume.in](https://resume.in)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YM6cpLsVOu7wl7CsT5ApBOZeG7Dp80xd/view?usp=sharing](https://drive.google.com/file/d/1YM6cpLsVOu7wl7CsT5ApBOZeG7Dp80xd/view?usp=sharing)
 
 - ⚡ Fun fact **I am a great Comedian**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavendra7992" alt="raghavendra7992" /></a> </p>
