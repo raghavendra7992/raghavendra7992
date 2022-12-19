@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendra7992&label=Visitors&color=48b40e&style=flat-square" alt="raghavendra7992" /> </p>
 <img height="350px" width="100%" src="https://c8.alamy.com/comp/W3XFX2/full-stack-developer-with-digital-java-code-text-full-stack-developer-and-computer-software-coding-vector-concept-programming-coding-script-java-di-W3XFX2.jpg">
-- 🔭 I’m currently working on [Indian Express](https://github.com/raghavendra7992/abiding-cough-9521)
-
 - 🌱 I’m currently learning **Mern Developer**
 
 - 👨‍💻 All of my projects are available at [https://raghavendra7992.github.io/#/projects]
