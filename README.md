@@ -5,7 +5,7 @@
 <img height="350px" width="100%" src="https://c8.alamy.com/comp/W3XFX2/full-stack-developer-with-digital-java-code-text-full-stack-developer-and-computer-software-coding-vector-concept-programming-coding-script-java-di-W3XFX2.jpg">
 - 🌱 I’m currently learning **Mern Developer**
 
-- 👨‍💻 All of my projects are available at [https://raghavendra7992.github.io/#/projects]
+- 👨‍💻 My Portfolio [https://raghavendra7992.github.io/]
 
 - 💬 Ask me about **react,nodejs,mongoDB,javascript,embedded system and Iot,css,html**
 
